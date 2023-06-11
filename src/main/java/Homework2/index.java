@@ -23,22 +23,34 @@
 <td>Курс</td>
 </tr>
 <tr>
-<td>🇱🇷🇪🇺</td>
+<td>
+<img src="./Media/UnitedStates.png" alt="UnitedStates">
+<img src="./Media/EuropeanUnion.png" alt="EuropeanUnion">
+</td>
 <td>$ (USD)</td>
 <td>0,93€</td>
 </tr>
 <tr>
-<td>🇬🇧🇪🇺</td>
+<td>
+<img src="./Media/UnitedKingdom.png" alt="UnitedKingdom">
+<img src="./Media/EuropeanUnion.png" alt="EuropeanUnion">
+</td>
 <td>£ (GBP)</td>
 <td>1,17€</td>
 </tr>
 <tr>
-<td>🇯🇵🇪🇺</td>
+<td>
+<img src="./Media/Japan.png" alt="Japan">
+<img src="./Media/EuropeanUnion.png" alt="EuropeanUnion">
+</td>
 <td>¥ (JPY)</td>
 <td>0,0073€</td>
 </tr>
 <tr>
-<td>🇬🇪🇪🇺</td>
+<td>
+<img src="./Media/Georgia.png" alt="Georgia">
+<img src="./Media/EuropeanUnion.png" alt="EuropeanUnion">
+</td>
 <td>₾ (GEL)</td>
 <td>0,32€</td>
 </tr>
